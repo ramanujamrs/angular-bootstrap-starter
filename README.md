@@ -1,8 +1,8 @@
 # Introduction
 
 [![Join the chat at https://gitter.im/ramanujamrs/angular2-seed](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ramanujamrs/angular-bootstrap-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Dependency Status](https://david-dm.org/ramanujamrs/angular-bootstrap-starter.svg)](https://david-dm.org/mgechev/angular-seed)
-[![devDependency Status](https://david-dm.org/ramanujamrs/angular-bootstrap-starter/dev-status.svg)](https://david-dm.org/mgechev/angular-seed#info=devDependencies)
+[![Dependency Status](https://david-dm.org/ramanujamrs/angular-bootstrap-starter.svg)](https://david-dm.org/ramanujamrs/angular-bootstrap-starter)
+[![devDependency Status](https://david-dm.org/ramanujamrs/angular-bootstrap-starter/dev-status.svg)](https://david-dm.org/angular-bootstrap-starter#info=devDependencies)
 
 Objective is to have a fast and easy way for Angular 2 starter kit with Bootstrap for the development of prototypes or projects.
 Simply Angular here refers to v2 and v4 as per Angular team naming guidelines.
