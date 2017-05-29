@@ -7,7 +7,8 @@
 Objective is to have a fast and easy way for Angular 2 starter kit with Bootstrap for the development of prototypes or projects.
 Simply Angular here refers to v2 and v4 as per Angular team naming guidelines.
 
-Collaborators are welcome to contribute to the ambition of `angular-starter-with-bootstrap4` project which is to combine the following features in this starter kit:
+Started with a basic initial structure. More features needs to be added. 
+Collaborators are welcome to contribute to the ambition of `angular-bootstrap-starter` project which is to combine the following features in this starter kit:
 - Quick way to start angular project with structured folders
 - Supports multiple authentication methods including google, FB logins or simple email/pwd authentication
 - User profile systems as a service with Admin functionality with bulk upload, activation, deactivation
