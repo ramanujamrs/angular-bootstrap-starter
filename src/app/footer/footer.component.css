@@ -1,0 +1,103 @@
+.theFooter {
+  position: absolute;
+  flex: 0 0 auto;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 20%;
+  line-height: 30px; /* Vertically center the text there */
+  background-color: #3a3f46;
+  color: white;
+}
+
+#theFooter .row {
+    margin-bottom: 10px;
+}
+
+#theFooter .info{
+    text-align: justify; 
+    color: #afb0b1;
+}
+
+#theFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#theFooter h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#theFooter .logo{
+    margin-top: 10px;
+}
+
+#theFooter .second-bar .logo a{
+    color:white;
+    font-size: 28px;
+    float: left;
+    font-weight: bold;
+    line-height: 68px;
+    margin: 0;
+    padding: 0;
+}
+
+#theFooter a {
+    color: #d2d1d1;
+    text-decoration: none;
+}
+
+#theFooter a:hover,
+#theFooter a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+#theFooter .second-bar {
+    text-align: center;
+    background-color: #33373e;
+    text-align: center;
+}
+
+#theFooter .second-bar a {
+    font-size: 22px;
+    color: #9fa3a9;
+    padding: 10px;
+    transition: 0.2s;
+    line-height: 68px;
+}
+
+#theFooter .second-bar a:hover {
+    text-decoration: none;
+}
+
+#theFooter .social-icons {
+    float:right;
+}
+
+
+#theFooter .facebook:hover {
+    color: #0077e2;
+}
+
+#theFooter .google:hover {
+    color: #ef1a1a;
+}
+
+#theFooter .twitter:hover {
+    color: #00aced;
+}
+
+@media screen and (max-width: 767px) {
+    #theFooter {
+        text-align: center;
+    }
+
+    #theFooter .info{
+        text-align: center;
+    }
+}
